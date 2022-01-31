@@ -1,0 +1,5 @@
+cd /d D:\Users\Peke\Documents\Django\djangogirls
+rem 仮想環境の起動
+myvenv\Scripts\activate
+rem Webサーバーの起動
+python manage.py runserver
